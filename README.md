@@ -13,4 +13,4 @@ With Youtube Trailers Embeded
 <img src="/images/demo3.png">
 
 
-Demo: <a href="netfilx-cloneOnreder.com">Click Me</a>
+Demo: <a href="https://netfilx-clone.onrender.com">Click Me</a>
