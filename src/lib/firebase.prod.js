@@ -7,12 +7,12 @@ import { seedDatabase } from '../seed';
 
 //we need a config here, put your api details here 
 const config = {
-    apiKey: "AIzaSyD6rfFIRNC4j0YoRtZGi6vLlJ0M2baoffE",
-    authDomain: "netflix-react-9480e.firebaseapp.com",
-    projectId: "netflix-react-9480e",
-    storageBucket: "netflix-react-9480e.appspot.com",
-    messagingSenderId: "124358470674",
-    appId: "1:124358470674:web:e265ab9bc66f7c4e9a3ccb"
+    apiKey: "AIzaSyBkkJnBh-DmhcBjlSJPcsJVtV7z_QfTXKY",
+  authDomain: "abcd-59687.firebaseapp.com",
+  projectId: "abcd-59687",
+  storageBucket: "abcd-59687.appspot.com",
+  messagingSenderId: "894095777566",
+  appId: "1:894095777566:web:270912c6ba8b1f3c05730f"
 };
 
 const firebase = Firebase.initializeApp(config);
